@@ -113,8 +113,8 @@
 	</dependencies>
 
 	<scm>
-		<url>svn:svn://svn.anotheria.net/opensource/ano-doc-parent/tags/ano-doc-parent-2.0.0</url>
-		<connection>scm:svn:svn://svn.anotheria.net/opensource/ano-doc-parent/tags/ano-doc-parent-2.0.0</connection>
-		<developerConnection>scm:svn:svn://svn.anotheria.net/opensource/ano-doc-parent/tags/ano-doc-parent-2.0.0</developerConnection>
+		<url>svn:svn://svn.anotheria.net/opensource/ano-doc-parent/trunk</url>
+		<connection>scm:svn:svn://svn.anotheria.net/opensource/ano-doc-parent/trunk</connection>
+		<developerConnection>scm:svn:svn://svn.anotheria.net/opensource/ano-doc-parent/trunk</developerConnection>
 	</scm>
 </project>
