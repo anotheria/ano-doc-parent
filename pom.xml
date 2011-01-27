@@ -30,7 +30,7 @@
 			<plugin>
 				<groupId>net.anotheria</groupId>
 				<artifactId>maven-ano-doc-plugin</artifactId>
-				<version>1.2</version>
+				<version>1.4</version>
 				<configuration>
 					<baseDir>${basedir}</baseDir>
 					<outputDir>${basedir}/generated</outputDir>
