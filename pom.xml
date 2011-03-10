@@ -11,10 +11,10 @@
 	<artifactId>ano-doc-parent</artifactId>
 	<packaging>pom</packaging>
 	<name>Anodoc projects parent pom</name>
-	<version>2.0.4-SNAPSHOT</version>
+	<version>2.1.0-SNAPSHOT</version>
 	
 	<properties>
-		<ano-doc-version>2.0.3</ano-doc-version>
+		<ano-doc-version>2.1.0-SNAPSHOT</ano-doc-version>
 	</properties>
 
 	<build>
