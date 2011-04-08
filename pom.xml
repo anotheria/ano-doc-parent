@@ -14,7 +14,7 @@
 	<version>2.1.1-SNAPSHOT</version>
 	
 	<properties>
-		<ano-doc-version>2.1.0</ano-doc-version>
+		<ano-doc-version>2.1.1-SNAPSHOT</ano-doc-version>
 	</properties>
 
 	<build>
@@ -34,7 +34,7 @@
 			<plugin>
 				<groupId>net.anotheria</groupId>
 				<artifactId>maven-ano-doc-plugin</artifactId>
-				<version>1.3</version>
+				<version>1.4</version>
 				<dependencies>
 					<dependency>
 						<groupId>net.anotheria</groupId>
