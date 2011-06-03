@@ -14,7 +14,7 @@
 	<version>2.1.2-SNAPSHOT</version>
 	
 	<properties>
-		<ano-doc-version>2.1.1</ano-doc-version>
+		<ano-doc-version>2.1.2</ano-doc-version>
 	</properties>
 
 	<build>
