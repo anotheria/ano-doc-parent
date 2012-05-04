@@ -27,7 +27,7 @@
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>ano-doc</artifactId>
-			<version>2.3.1-SNAPSHOT</version>
+			<version>${project.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.anotheria</groupId>
@@ -73,7 +73,7 @@
 			<plugin>
 				<groupId>net.anotheria</groupId>
 				<artifactId>maven-ano-doc-plugin</artifactId>
-				<version>2.3.0</version>
+				<version>${project.version}</version>
 				<configuration>
 					<baseDir>${basedir}</baseDir>
 					<outputDir>${basedir}/generated</outputDir>
