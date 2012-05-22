@@ -11,7 +11,7 @@
 	<artifactId>ano-doc-parent</artifactId>
 	<packaging>pom</packaging>
 	<name>Anodoc projects parent pom</name>
-	<version>2.3.1-SNAPSHOT</version>
+	<version>2.3.1</version>
 
     <properties>
 		<!-- ano-doc-dep-version>${project.version}</ano-doc-dep-version-->
@@ -115,8 +115,8 @@
 	</build>
 
 	<scm>
-		<url>svn:svn://svn.anotheria.net/opensource/ano-doc-parent/trunk</url>
-		<connection>scm:svn:svn://svn.anotheria.net/opensource/ano-doc-parent/trunk</connection>
-		<developerConnection>scm:svn:svn://svn.anotheria.net/opensource/ano-doc-parent/trunk</developerConnection>
+		<url>svn:svn://svn.anotheria.net/opensource/ano-doc-parent/tags/ano-doc-parent-2.3.1</url>
+		<connection>scm:svn:svn://svn.anotheria.net/opensource/ano-doc-parent/tags/ano-doc-parent-2.3.1</connection>
+		<developerConnection>scm:svn:svn://svn.anotheria.net/opensource/ano-doc-parent/tags/ano-doc-parent-2.3.1</developerConnection>
 	</scm>
 </project>
