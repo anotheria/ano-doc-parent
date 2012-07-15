@@ -13,10 +13,10 @@
 	<name>Anodoc projects parent pom</name>
 	<version>2.3.2-SNAPSHOT</version>
 
-    <properties>
-		<ano-doc-dep-version>${project.version}</ano-doc-dep-version>
-		<!-- ano-doc-dep-version>2.3.2</ano-doc-dep-version -->
-    </properties>
+	<properties>
+		<!-- ano-doc-dep-version>${project.version}</ano-doc-dep-version -->
+		<ano-doc-dep-version>2.3.2</ano-doc-dep-version>
+	</properties>
 
 	<dependencies>
 		<dependency>
@@ -53,12 +53,12 @@
 			<groupId>net.anotheria</groupId>
 			<artifactId>moskito-web</artifactId>
 			<version>1.4.1</version>
-		</dependency>		
+		</dependency>
 		<dependency>
 			<groupId>struts</groupId>
 			<artifactId>struts</artifactId>
 			<version>1.1</version>
-		</dependency>		
+		</dependency>
 	</dependencies>
 
 	<build>
