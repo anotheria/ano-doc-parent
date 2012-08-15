@@ -14,7 +14,7 @@
 	<version>2.3.4-SNAPSHOT</version>
 
 	<properties>
-		<ano-doc-dep-version>2.3.4-SNAPSHOT</ano-doc-dep-version>
+		<ano-doc-dep-version>2.3.4</ano-doc-dep-version>
 	</properties>
 
 	<dependencies>
