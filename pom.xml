@@ -14,7 +14,7 @@
 	<version>2.3.6-SNAPSHOT</version>
 
 	<properties>
-		<ano-doc-dep-version>2.3.5</ano-doc-dep-version>
+		<ano-doc-dep-version>2.3.6-SNAPSHOT</ano-doc-dep-version>
 	</properties>
 
 	<dependencies>
@@ -41,17 +41,17 @@
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>moskito-util</artifactId>
-			<version>1.4.1</version>
+			<version>1.5.1</version>
 		</dependency>
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>moskito-core</artifactId>
-			<version>1.4.1</version>
+			<version>1.5.1</version>
 		</dependency>
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>moskito-web</artifactId>
-			<version>1.4.1</version>
+			<version>1.5.1</version>
 		</dependency>
 		<dependency>
 			<groupId>struts</groupId>
