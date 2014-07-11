@@ -12,7 +12,7 @@
 	<version>2.6.0-SNAPSHOT</version>
 
 	<properties>
-		<ano-doc-dep-version>2.6.0-SNAPSHOT</ano-doc-dep-version>
+		<ano-doc-dep-version>2.6.0</ano-doc-dep-version>
 	</properties>
 
 	<dependencies>
@@ -108,9 +108,9 @@
 		</plugins>
 	</build>
 
-	<scm>
-		<url>svn:svn://svn.anotheria.net/opensource/ano-doc-parent/trunk</url>
-		<connection>scm:svn:svn://svn.anotheria.net/opensource/ano-doc-parent/trunk</connection>
-		<developerConnection>scm:svn:svn://svn.anotheria.net/opensource/ano-doc-parent/trunk</developerConnection>
-	</scm>
+    <scm>
+             <url>https://github.com/anotheria/ano-doc-parent</url>
+             <connection>scm:git:git@github.com:anotheria/ano-doc-parent.git</connection>
+             <developerConnection>scm:git:git@github.com:anotheria/ano-doc-parent.git</developerConnection>
+     </scm>
 </project>
