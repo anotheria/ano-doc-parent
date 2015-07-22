@@ -12,14 +12,15 @@
 	<version>2.6.1-SNAPSHOT</version>
 
 	<properties>
-		<ano-doc-dep-version>2.6.0</ano-doc-dep-version>
+		<ano-doc.version>2.6.1-SNAPSHOT</ano-doc.version>
+		<ano-doc-plugin.version>2.6.0</ano-doc-plugin.version>
 	</properties>
 
 	<dependencies>
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>ano-doc</artifactId>
-			<version>${ano-doc-dep-version}</version>
+			<version>${ano-doc.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.anotheria</groupId>
@@ -65,12 +66,12 @@
 			<plugin>
 				<groupId>net.anotheria</groupId>
 				<artifactId>maven-ano-doc-plugin</artifactId>
-				<version>${ano-doc-dep-version}</version>
+				<version>${ano-doc-plugin.version}</version>
 				<dependencies>
 					<dependency>
 						<groupId>net.anotheria</groupId>
 						<artifactId>ano-doc</artifactId>
-						<version>${ano-doc-dep-version}</version>
+						<version>${ano-doc.version}</version>
 					</dependency>
 				</dependencies>
 				<configuration>
@@ -109,8 +110,8 @@
 	</build>
 
     <scm>
-             <url>https://github.com/anotheria/ano-doc-parent</url>
-             <connection>scm:git:git@github.com:anotheria/ano-doc-parent.git</connection>
-             <developerConnection>scm:git:git@github.com:anotheria/ano-doc-parent.git</developerConnection>
+		<url>https://github.com/anotheria/ano-doc-parent</url>
+		<connection>scm:git:git@github.com:anotheria/ano-doc-parent.git</connection>
+		<developerConnection>scm:git:git@github.com:anotheria/ano-doc-parent.git</developerConnection>
      </scm>
 </project>
