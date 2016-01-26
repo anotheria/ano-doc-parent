@@ -12,7 +12,7 @@
 	<version>2.6.1-SNAPSHOT</version>
 
 	<properties>
-		<ano-doc-dep-version>2.6.0</ano-doc-dep-version>
+		<ano-doc-dep-version>2.6.1</ano-doc-dep-version>
 	</properties>
 
 	<dependencies>
