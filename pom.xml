@@ -19,7 +19,7 @@
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>ano-doc</artifactId>
-			<version>3.0.0</version>
+			<version>${ano-doc-dep-version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.anotheria</groupId>
