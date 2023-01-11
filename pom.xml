@@ -12,14 +12,14 @@
 	<version>3.1.1-SNAPSHOT</version>
 
 	<properties>
-		<ano-doc-dep-version>${project.version}</ano-doc-dep-version>
+		<ano-doc-dep-version>3.2.0</ano-doc-dep-version>
 	</properties>
 
 	<dependencies>
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>ano-doc</artifactId>
-			<version>3.1.1-SNAPSHOT</version>
+			<version>3.2.0</version>
 		</dependency>
 		<dependency>
 			<groupId>net.anotheria</groupId>
