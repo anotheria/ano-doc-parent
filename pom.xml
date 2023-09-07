@@ -12,7 +12,7 @@
 	<version>3.2.2-SNAPSHOT</version>
 
 	<properties>
-		<ano-doc-dep-version>3.2.2-SNAPSHOT</ano-doc-dep-version>
+		<ano-doc-dep-version>3.2.2</ano-doc-dep-version>
 	</properties>
 
 	<dependencies>
@@ -40,12 +40,12 @@
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>moskito-core</artifactId>
-			<version>3.2.1</version>
+			<version>3.2.6</version>
 		</dependency>
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>moskito-web</artifactId>
-			<version>3.2.1</version>
+			<version>3.2.6</version>
 		</dependency>
 	</dependencies>
 
