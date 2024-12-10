@@ -9,17 +9,17 @@
 	<artifactId>ano-doc-parent</artifactId>
 	<packaging>pom</packaging>
 	<name>Anodoc projects parent pom</name>
-	<version>4.2.2-SNAPSHOT</version>
+	<version>4.3.1-SNAPSHOT</version>
 
 	<properties>
-		<ano-doc-dep-version>4.2.2-SNAPSHOT</ano-doc-dep-version>
+		<ano-doc-dep-version>4.3.0</ano-doc-dep-version>
 	</properties>
 
 	<dependencies>
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>ano-doc</artifactId>
-			<version>${ano-doc-dep-version}</version>
+			<version>4.3.0</version>
 		</dependency>
 		<dependency>
 			<groupId>net.anotheria</groupId>
