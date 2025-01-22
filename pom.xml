@@ -9,7 +9,7 @@
 	<artifactId>ano-doc-parent</artifactId>
 	<packaging>pom</packaging>
 	<name>Anodoc projects parent pom</name>
-	<version>4.3.1</version>
+	<version>4.3.2-SNAPSHOT</version>
 
 	<properties>
 		<ano-doc-dep-version>4.3.1</ano-doc-dep-version>
