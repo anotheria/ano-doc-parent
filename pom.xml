@@ -12,14 +12,14 @@
 	<version>4.3.1-SNAPSHOT</version>
 
 	<properties>
-		<ano-doc-dep-version>4.3.0</ano-doc-dep-version>
+		<ano-doc-dep-version>4.3.1</ano-doc-dep-version>
 	</properties>
 
 	<dependencies>
 		<dependency>
 			<groupId>net.anotheria</groupId>
 			<artifactId>ano-doc</artifactId>
-			<version>4.3.0</version>
+			<version>${ano-doc-dep-version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.anotheria</groupId>
